@@ -1,0 +1,5 @@
+camera:
+  id: 0
+  size: [224, 224]
+labels: model/labels.txt
+model: model/keras_model.h5
