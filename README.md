@@ -1,3 +1,18 @@
+<h1 align="center">Team Members: Yuri Armando, Simone Nardi, Francesco Bassignana, Pietro Jomini</h1>
+<h3 align="center">ITIS M. DELPOZZO</h3>
+
+- 🔭I am currently working on [Trash Sorter](https://github.com/PietroJominiITIS/trash-sorter)
+
+- 🌱 I’m currently learning **Python, Teachable Machine, Keras**
+
+- 👨‍💻 All of my projects are on [My repos](My repos)
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pietrojominiitis&show_icons=true&locale=en&layout=compact" alt="pietrojominiitis" /></p>
+
 # Trash sorter with keras and teachable machines
 
 
