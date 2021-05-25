@@ -1,11 +1,10 @@
 <h1 align="center">Team Members: Yuri Armando, Simone Nardi, Francesco Bassignana, Pietro Jomini</h1>
 <h3 align="center">ITIS M. DELPOZZO</h3>
 
-- 🔭I am currently working on [Trash Sorter](https://github.com/PietroJominiITIS/trash-sorter)
+- 🔭We are currently working on [Trash Sorter](https://github.com/PietroJominiITIS/trash-sorter)
 
-- 🌱 I’m currently learning **Python, Teachable Machine, Keras**
+- 🌱 We're currently using **Python, Teachable Machine, Keras**
 
-- 👨‍💻 All of my projects are on [My repos](My repos)
 
 
 <h3 align="left">Languages and Tools:</h3>
