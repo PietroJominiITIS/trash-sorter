@@ -76,7 +76,7 @@ def main():
         data[0] = normalized_frame
 
         # Run the inference
-        prediction = model.predict(data)
+        prediction = model.predict(data)[0]
 
         # Select best fitting option
         prediction = enumerate(prediction)
